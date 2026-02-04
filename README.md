@@ -68,4 +68,10 @@ You can use the Swagger UI at `http://localhost:8000/docs` or send a POST reques
 curl -X POST "http://localhost:8000/ask" \
      -H "Content-Type: application/json" \
      -d '{"question": "What is the summary of the article?"}'
+
+     ## Submission Note
+Project submitted for evaluation.
+```
+     ## Submission Note
+Project submitted for evaluation.
 ```
